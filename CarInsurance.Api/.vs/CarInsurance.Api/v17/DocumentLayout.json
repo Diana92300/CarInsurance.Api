@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0A360F-1C58-4073-AFE7-36EB3D0BFE25}|..\\CarInsurance.IntgrationTests\\CarInsurance.IntgrationTests.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.intgrationtests\\carscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E0B30-AD22-4CBB-A5E1-357585A39CB3}|..\\CatInsurance.Application.UnitTests\\CatInsurance.Application.UnitTests.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\catinsurance.application.unittests\\claim_and_history_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E0B30-AD22-4CBB-A5E1-357585A39CB3}|..\\CatInsurance.Application.UnitTests\\CatInsurance.Application.UnitTests.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\catinsurance.application.unittests\\carcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\carscontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:carscontroller.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\services\\icarhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\icarhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\services\\expiredlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\expiredlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\services\\carhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:services\\carhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\models\\policyexpiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:models\\policyexpiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:models\\insurancepolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\img\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:img\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E0B30-AD22-4CBB-A5E1-357585A39CB3}|..\\CatInsurance.Application.UnitTests\\CatInsurance.Application.UnitTests.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\catinsurance.application.unittests\\catinsurance.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|c:\\users\\lored\\onedrive\\desktop\\carinsurance.api\\carinsurance.api\\migrations\\20250827222346_enddaterequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D448F1CB-6F0E-736C-EEF1-3AC5923400B1}|CarInsurance.Api.csproj|solutionrelative:migrations\\20250827222346_enddaterequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Controllers\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:40:50.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.IntgrationTests\\CarsControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "..\\CarInsurance.IntgrationTests\\CarsControllerIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.IntgrationTests\\CarsControllerIntegrationTest.cs",
+              "RelativeToolTip": "..\\CarInsurance.IntgrationTests\\CarsControllerIntegrationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:31:36.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-28T16:54:42.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Claim_And_History_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CatInsurance.Application.UnitTests\\Claim_And_History_Tests.cs",
+              "RelativeDocumentMoniker": "..\\CatInsurance.Application.UnitTests\\Claim_And_History_Tests.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CatInsurance.Application.UnitTests\\Claim_And_History_Tests.cs",
+              "RelativeToolTip": "..\\CatInsurance.Application.UnitTests\\Claim_And_History_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:55:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CatInsurance.Application.UnitTests\\CarControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\CatInsurance.Application.UnitTests\\CarControllerTests.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CatInsurance.Application.UnitTests\\CarControllerTests.cs",
+              "RelativeToolTip": "..\\CatInsurance.Application.UnitTests\\CarControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:56:06.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:51:05.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarsController.http",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\CarsController.http",
+              "RelativeDocumentMoniker": "CarsController.http",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\CarsController.http",
+              "RelativeToolTip": "CarsController.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-28T11:31:00.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\ICarService.cs",
+              "RelativeToolTip": "Services\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:10:37.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\ICarHistoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICarHistoryService.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\ICarHistoryService.cs",
+              "RelativeToolTip": "Services\\ICarHistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:11:00.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpiredLogger.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\ExpiredLogger.cs",
+              "RelativeDocumentMoniker": "Services\\ExpiredLogger.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\ExpiredLogger.cs",
+              "RelativeToolTip": "Services\\ExpiredLogger.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:25:58.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\CarService.cs",
+              "RelativeToolTip": "Services\\CarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:41:08.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\CarHistoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CarHistoryService.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Services\\CarHistoryService.cs",
+              "RelativeToolTip": "Services\\CarHistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:46:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PolicyExpiration.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\PolicyExpiration.cs",
+              "RelativeDocumentMoniker": "Models\\PolicyExpiration.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\PolicyExpiration.cs",
+              "RelativeToolTip": "Models\\PolicyExpiration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T08:22:06.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "Models\\Owner.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\Owner.cs",
+              "RelativeToolTip": "Models\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:45:03.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InsurancePolicy.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\InsurancePolicy.cs",
+              "RelativeDocumentMoniker": "Models\\InsurancePolicy.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\InsurancePolicy.cs",
+              "RelativeToolTip": "Models\\InsurancePolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:44:56.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:30:08.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:56:48.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dtos.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Dtos\\Dtos.cs",
+              "RelativeDocumentMoniker": "Dtos\\Dtos.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Dtos\\Dtos.cs",
+              "RelativeToolTip": "Dtos\\Dtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:32:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:58:30.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T20:10:39.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "image.png",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\img\\image.png",
+              "RelativeDocumentMoniker": "img\\image.png",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\img\\image.png",
+              "RelativeToolTip": "img\\image.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-27T19:55:37.225Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CatInsurance.Application.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CatInsurance.Application.UnitTests\\CatInsurance.Application.UnitTests.csproj",
+              "RelativeDocumentMoniker": "..\\CatInsurance.Application.UnitTests\\CatInsurance.Application.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CatInsurance.Application.UnitTests\\CatInsurance.Application.UnitTests.csproj",
+              "RelativeToolTip": "..\\CatInsurance.Application.UnitTests\\CatInsurance.Application.UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T17:24:27.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250827222346_EndDateRequired.cs",
+              "DocumentMoniker": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Migrations\\20250827222346_EndDateRequired.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250827222346_EndDateRequired.cs",
+              "ToolTip": "C:\\Users\\lored\\OneDrive\\Desktop\\CarInsurance.Api\\CarInsurance.Api\\Migrations\\20250827222346_EndDateRequired.cs",
+              "RelativeToolTip": "Migrations\\20250827222346_EndDateRequired.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:50:27.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
