@@ -57,7 +57,7 @@ namespace CatInsurance.Application.UnitTests
             var svc = Substitute.For<ICarHistoryService>();
             var ctrl = new CarsController(Substitute.For<ICarService>());
 
-            var dto = new CreateClaimDto(new DateOnly(2025, 1, 1), "", 0); // invalid
+            var dto = new CreateClaimDto(new DateOnly(2025, 1, 1), "", 0); 
 
             svc.RegisterClaimAsync(1, dto, Arg.Any<CancellationToken>())
                .Returns(_ => Task.FromException<ClaimDto>(new ArgumentException("Amount must be > 0")));
