@@ -108,7 +108,7 @@ public class CarsControllerIntegrationTests : IClassFixture<WebApplicationFactor
     [Fact]
     public async Task Should_ReturnBadRequest_When_DateFormatIsInvalid()
     {
-        var res = await _client.GetAsync($"{CarsBase}/1/insurance-valid?date=06-01-2024"); // format gre?it
+        var res = await _client.GetAsync($"{CarsBase}/1/insurance-valid?date=06-01-2024"); 
         Assert.Equal(HttpStatusCode.BadRequest, res.StatusCode);
 
         var text = await res.Content.ReadAsStringAsync();
